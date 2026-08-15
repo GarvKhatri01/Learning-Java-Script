@@ -21,12 +21,41 @@
 // console.log(typeof(boolLogged));
 // console.log(boolLogged);
 
-let number = 34
+// let number = 34
 
-let stringNum = String(number)
+// let stringNum = String(number)
 
-console.log(typeof(stringNum));
-console.log(stringNum);
+// console.log(typeof(stringNum));
+// console.log(stringNum);
+
+//**************Operations**********
+
+
+
+// let str1 = "hello"
+// let str2 = " Garv!"
+
+// let str3 = str1 + str2
+
+// console.log(str3);
+
+// console.log("1" + 2);
+// console.log("1" + 2 + 2);
+// console.log(1 + 2 + "2");
+// console.log(true);
+// console.log(+true);
+// console.log(+"");
+
+let num1,num2,num3
+
+num1 = num2 = num3 = 2 + 2 //Not recomended
+
+let gameCounter = 100
+
+gameCounter++;
+console.log(gameCounter);
+
+
 
 
 
