@@ -1,0 +1,53 @@
+const score = 400
+// console.log(score);
+
+const balance = new Number(100)
+
+// console.log(balance);
+// console.log(balance.toString());
+// console.log(balance.toString().length);
+
+// console.log(balance.toFixed(2));
+
+const otherNum = 123.89672  //
+
+// console.log(otherNum.toPrecision(3));  //precise it from the start of the value 
+
+//coma 
+const  hundreds = 1000000
+// console.log(hundreds.toLocaleString('en-IN')) //by default us standard
+
+
+// ++++++++++Maths++++++++++++
+
+// console.log(Math.abs(-59));
+// console.log(Math.round(4.3));
+// console.log(Math.floor(4.3));
+// console.log(Math.ceil(4.3));
+
+// console.log(Math.sqrt(30));
+
+// console.log(Math.pow(2,3));
+// console.log(Math.min(4,3,5,8));
+// console.log(Math.max(4,3,5,8));
+
+console.log(Math.random());  //always bw 0 to 1 
+
+
+console.log((Math.random()*10) + 1);
+
+const min = 10
+const max = 20
+
+// console.log(Math.floor(Math.random()*(max - min + 1)) + min);  //it will be in range of max and min
+
+
+
+
+
+
+
+
+
+
+

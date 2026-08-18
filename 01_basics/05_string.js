@@ -41,7 +41,7 @@ console.log(url); //no change in original
 console.log(url.includes('garv'));
 console.log(url.includes('kaju'));
 
-const currString = new String('garv-sahil-ankur-clive') 
+const currString = new String('garv-sahil-ankur-clive')
 
 //Split of string 
 
